@@ -12,6 +12,7 @@ from matplotlib.pylab import rcParams
 rcParams['figure.figsize'] = 10, 6
 
 
+
 # In[2]:
 
 
