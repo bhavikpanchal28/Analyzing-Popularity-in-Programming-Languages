@@ -17,9 +17,10 @@ rcParams['figure.figsize'] = 10, 6
 # In[8]:
 
 
+
 dataset = pd.read_csv("C_Dataset.csv")
 
-dataset['Month'] = pd.to_datetime(dataset['Month'], infer_datetime_format=True)
+dataset['Month'] = pd.to_datetime(dataset['Month'], infer_datetime_format=True)        
 indexedDataset = dataset.set_index(['Month'])
 
 
