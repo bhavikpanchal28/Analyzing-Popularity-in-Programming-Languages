@@ -5,6 +5,7 @@
 
 # In[1]:
 
+#Use with Jupyter Notebook
 
 import numpy as np
 import pandas as pd
