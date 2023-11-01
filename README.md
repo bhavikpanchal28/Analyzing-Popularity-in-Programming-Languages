@@ -10,3 +10,4 @@ These programming languages are :
 - Python
 
 I then used an ARIMA model to predict the trend of the popularity for each of these programming languages for the next 5 years.
+If you are interested in this project, you can find more information in the project report linked above.
