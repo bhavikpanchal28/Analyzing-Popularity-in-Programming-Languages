@@ -8,3 +8,5 @@ These programming languages are :
 - Javascript
 - PHP
 - Python
+
+I then used an ARIMA model to predict the trend of the popularity for each of these programming languages for the next 5 years.
